@@ -1,0 +1,2 @@
+Plastisphere-metaanalysis.html filter=lfs diff=lfs merge=lfs -text
+*.html filter=lfs diff=lfs merge=lfs -text
